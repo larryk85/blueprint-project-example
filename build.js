@@ -1,6 +1,4 @@
-module.export = test;
-
-class test {
+module.export = class test {
    constructor(x, y) {
       this.x = x;
       this.y = y;
